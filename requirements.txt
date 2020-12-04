@@ -1,0 +1,9 @@
+tensorflow
+keras
+numpy
+hdbscan
+matplotlib
+pandas
+psutil
+scikit-learn
+xgboost
